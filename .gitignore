@@ -39,3 +39,4 @@ luac.out
 *.x86_64
 *.hex
 
+ESP_IntADC_Baby_Monitor_Cont1/wifi_params.h
